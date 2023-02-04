@@ -1,5 +1,5 @@
 cycler==0.10.0
-lxml==3.6.0
+lxml==4.9.1
 matplotlib==1.5.1
 numpy==1.11.0
 pyparsing==2.1.4
